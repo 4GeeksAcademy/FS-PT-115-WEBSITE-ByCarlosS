@@ -1,3 +1,29 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.contenedor{
+    background-image: url(https://i.redd.it/new-superman-poster-banner-in-a-clean-version-v0-g24uo9ysrr0f1.jpg?width=3000&format=pjpg&auto=webp&s=245c5615a4690e553517da7d680c1d75d3f61d74);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.cont h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.cont h2 {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
 }
